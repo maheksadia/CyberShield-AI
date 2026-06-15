@@ -29,3 +29,7 @@ Clone the repository:
 
 ```bash
 git clone YOUR_REPOSITORY_LINK
+## 👩‍💻 Author
+
+**Mahek Sadia**  
+GitHub: maheksadia2002@gmail.com
